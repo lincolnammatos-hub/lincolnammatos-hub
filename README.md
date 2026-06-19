@@ -5,6 +5,13 @@
 ##  About me
 Computer Science student. Learning C, Linux and VS Code.
 
+##  Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/lincoln-matos-6791473a3/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ## Technologies
 ![C](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white)
 
